@@ -40,3 +40,10 @@ Is displayed as this:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Step 4: Make a Task List
+In this step, refreshed on how to make a list.
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
