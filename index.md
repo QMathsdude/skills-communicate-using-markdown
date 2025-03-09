@@ -47,3 +47,6 @@ In this step, refreshed on how to make a list.
 - [X] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+# Step 5: Merge Pull Request
+In this last step, we finally apply what was learnt and _merge pull request_!
